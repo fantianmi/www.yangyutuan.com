@@ -1,0 +1,24 @@
+<?php include template("header");?>
+
+<div id="bdw" class="bdw">
+<div id="bd" class="cf">
+<div id="reset">
+    <div id="content">
+        <div class="box">
+            <div class="box-top"></div>
+            <div class="box-content">
+                <div class="head"><h2>重设密码</h2></div>
+                <div class="sect">
+					<p class="notice">操作成功！请到 <strong><?php echo $_SESSION['reemail']; ?></strong> 查阅来自<?php echo $INI['system']['abbreviation']; ?>的邮件，点击邮件中的链接重设您的密码。</p>
+				</div>
+            </div>
+            <div class="box-bottom"></div>
+        </div>
+    </div>
+    <div id="sidebar">
+    </div>
+</div>
+</div> <!-- bd end -->
+</div> <!-- bdw end -->
+
+<?php include template("footer");?>

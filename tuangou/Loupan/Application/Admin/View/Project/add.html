@@ -1,0 +1,23 @@
+<include file="Public:header" />
+<div class="pad_10">
+<form action="" method="post" name="myform" id="myform"  enctype="multipart/form-data">
+<table width="100%" cellpadding="2" cellspacing="1" class="table_form">
+	<tr> 
+		<th width="100">项目名称 :</th>
+		<td>
+			<input type="text" name="name" value="{$list.name}" />
+		</td>
+    </tr>
+	<tr>
+		<th>{:L('status')} :</th>
+		<td><input type="radio" name="status" class="radio_style" value="1" <if condition="$list.status eq 1"> checked</if>> &nbsp;有效&nbsp;&nbsp;&nbsp;
+	  	  <input type="radio" name="status" class="radio_style" value="0" <if condition="$list.status eq 0"> checked</if>> &nbsp;禁用
+		</td>
+		<input type="hidden" name="id" value="{$list.id}">
+    </tr>
+</table>
+<input type="submit" id="dosubmit" class="dialog" value=" ">
+</form>
+
+</div>
+</body>

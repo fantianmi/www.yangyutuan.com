@@ -1,0 +1,216 @@
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId></appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://://Accounts//SMS/TemplateSMS?sig=531730A5A5D6F2594224F3F43AEAA96E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>172001</statusCode><statusMsg>网络错误</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId></appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://://Accounts//SMS/TemplateSMS?sig=C5D1E80F070E1ACD13FD0F4645E46E5C
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>172001</statusCode><statusMsg>网络错误</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=A762A93BCE4D2D81BF1351E9DA331100
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160021</statusCode><statusMsg>同一手机相同内容限定时间内只能发一次:18688164055:【云通讯】您使用的是云通讯短信模板，您的验证码是，请于分钟内正确输入</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=DF3DF110274C745713AC6A763196C58D
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160021</statusCode><statusMsg>同一手机相同内容限定时间内只能发一次:18688164055:【云通讯】您使用的是云通讯短信模板，您的验证码是，请于分钟内正确输入</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=276550ABA7EBECF15D0E44DBC7C7ACEF
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160021</statusCode><statusMsg>同一手机相同内容限定时间内只能发一次:18688164055:【云通讯】您使用的是云通讯短信模板，您的验证码是，请于分钟内正确输入</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=F1DC39343076E4217EF4FFA372983021
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160021</statusCode><statusMsg>同一手机相同内容限定时间内只能发一次:18688164055:【云通讯】您使用的是云通讯短信模板，您的验证码是，请于分钟内正确输入</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=54D3334664FA9F20F1301BF3420284A4
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=5F045EB3F1DEF2782F489379D3A70C90
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=62CE344C9478A7A4485C4F9AEBE8749E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=EA3725302324E8EBEAF2596B564CA315
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=EA3725302324E8EBEAF2596B564CA315
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=9664AA455D1C3E24D15BC4B840ED3C16
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=3A6A995B219862952753B05EE0BD150C
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=29E64BF98DB47C10774503F2B7E6E279
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=D06F76D43496D962BA0E9A4305238700
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=3A65799FD4CA1549492FA508F371521D
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=82E21BD5AAA59ECB546FE07F5EF42C54
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=24AE60801855D4ABDA6A8BB8C968E6DB
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=8EE52475B4B396DDD19CB4E4538B8D53
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18688164055</to> 
+                    <appId>8a48b5514acda26e014add626bc70724</appId>
+                    <templateId>1</templateId>
+                    <datas><data></data><data></data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=53B9508D9A74AAA7DA582924A54918D6
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>349999769109</data><data>402893</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=247A7C0C682FE9AD8C74F1AD2631D700
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114095917</dateCreated><smsMessageSid>201501140959175132699</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>529230007238</data><data>654555</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=EBE39C4CBB85419A1E26CD7921901C0B
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>246406232089</data><data>728383</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=FD0B88043C2B203121269AD8EEBD1B80
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>246406232089</data><data>728383</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=F156286B473B19BD66CBF74E11E407D7
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>246406232089</data><data>728383</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=967F54DD060F1A58DB75CCDD0F048193
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>246406232089</data><data>728383</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=64F870A1F0AA1A78902ACBCA79856F75
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18059231420</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>246406232089</data><data>728383</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=B4B2FCEA60F7A720B90DE660E4D7D622
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114143838</dateCreated><smsMessageSid>201501141438375195412</smsMessageSid></TemplateSMS></Response>

@@ -1,0 +1,29 @@
+<include file="Public:header" />
+<div class="pad_10">
+<form action="" method="post" name="myform" id="myform"  enctype="multipart/form-data">
+<table width="100%" cellpadding="2" cellspacing="1" class="table_form">
+	<tr> 
+		<th width="100">图片 :</th>
+		<td>
+			<input type="file" name="image"/>
+		</td>
+    </tr>
+	<tr> 
+		<th width="100">URL :</th>
+		<td>
+		<textarea name="url" id="abst" style="width:68%;height:50px;"></textarea>
+		</td>
+    </tr>
+	<tr>
+		<th>{:L('status')} :</th>
+		<td>
+      		<input type="radio" name="status" class="radio_style" value="1" checked="checked"> &nbsp;有效&nbsp;&nbsp;&nbsp;
+        	<input type="radio" name="status" class="radio_style" value="0"> &nbsp;禁用
+		</td>
+    </tr>
+</table>
+<input type="submit" id="dosubmit" class="dialog" value=" ">
+</form>
+
+</div>
+</body>

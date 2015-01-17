@@ -1,0 +1,65 @@
+<include file="Public:header" />
+<div class="pad-10" >
+    <div class="table-list">
+    <table width="100%" cellspacing="0">
+        <thead>
+            <tr>
+                <th width="25">编号</th>
+                <th width=10><input type="checkbox" value="" id="check_box" onclick="selectall('id[]');"></th>
+                <th width=35>名称</th>
+				<th width=35>标识</th>							
+				<th width=150>描述</th>					
+				<th width=30>作者</th>
+				<th width=30>版本</th> 			
+                <th width=30>状态</th>
+				<th width=30>操作</th>
+            </tr>
+        </thead>
+    	<tbody>
+        <volist name="list" id="val" key="k">
+            <tr>
+            	<td align="center">{$val.id}</td>
+                <td align="center"><input type="checkbox" value="{$val.id}" name="id[]"></td>
+                <td align="center"><a href="javascript:void(0);"><em class="blue">{$val.title}</em></a></td>		   
+                <td align="center">{$val.name}</td>
+                <td align="center">{$val.description}</td>
+    		 	<td  align="center">{$val.author}</td>
+    		    <td  align="center">{$val.version}</td>
+                <td align="center" <if condition="$val['status']">style="color:green"<else/>style="color:red"</if>><if condition="$val['status']">启用<else/>禁用</if></td>
+    		   <td align="center"><a href="javascript:edit({$val.id},'{$val.name}')">编辑</a></td>
+            </tr>
+        </volist>
+    	</tbody>
+    </table>
+    <div class="btn">
+    	<label for="check_box" style="float:left;">全选/取消</label>
+    	<input type="submit" class="button" name="dosubmit" value="{$Think.lang.delete}" onclick="return confirm('{$Think.lang.sure_delete}')" style="float:left;margin:0 10px 0 10px;"/>
+    	<div id="pages">{$page}</div>
+    </div>
+    </div>
+</div>
+
+<script language="javascript">
+function edit(id, name) {
+	var lang_edit = "{$Think.lang.edit}";
+	window.top.art.dialog({id:'edit'}).close();
+	window.top.art.dialog({title:lang_edit+'--'+name,id:'edit',iframe:'__APP__/Admin/Addons/editAddons/id/'+id,width:'420',height:'200'}, 
+		function(){
+			var d = window.top.art.dialog({id:'edit'}).data.iframe;
+			d.document.getElementById('dosubmit').click();
+			return false;
+		}, 
+		function(){
+			window.top.art.dialog({id:'edit'}).close();
+		}
+	);
+}
+function status(id,type){
+    $.get("{:u('User/status')}", { id: id, type: type }, function(jsondata){
+		var return_data  = eval("("+jsondata+")");
+		$("#"+type+"_"+id+" img").attr('src', '__ROOT__/statics/images/status_'+return_data+'.gif')
+	}); 
+}
+</script>
+</body>
+</html>

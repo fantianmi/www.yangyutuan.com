@@ -1,0 +1,52 @@
+[ 2015-01-12T09:41:04+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1421026863)
+
+[ 2015-01-12T09:43:16+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1421026996)
+
+[ 2015-01-12T09:47:59+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1421027279)
+
+[ 2015-01-12T09:48:37+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=7&quantity=1&plat=201
+ERR: 1062:Duplicate entry '51' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,51,1421027317)
+
+[ 2015-01-12T09:51:19+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=4&quantity=1&plat=201
+ERR: 1062:Duplicate entry '52' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,52,1421027479)
+
+[ 2015-01-12T10:09:55+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1421028595)
+
+[ 2015-01-12T10:15:32+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1421028932)
+
+[ 2015-01-12T10:23:48+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1421029428)
+
+[ 2015-01-12T10:32:04+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1421029924)
+
+[ 2015-01-12T10:40:48+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1421030448)
+
+[ 2015-01-12T10:44:27+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1421030667)
+
+[ 2015-01-12T11:06:36+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1421031996)
+
+[ 2015-01-12T11:17:22+08:00 ] 14.106.127.101 /ztapp/api.php?s=Tuan/buy&id=4&quantity=1&plat=201
+ERR: 1062:Duplicate entry '52' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,52,1421032642)
+

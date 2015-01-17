@@ -1,0 +1,21 @@
+<?php if($partner['longlat']){?>
+<script src="http://api.map.baidu.com/api?v=1.3" type="text/javascript"></script>
+<script type="text/javascript">
+window.x_init_hook_gmp = function() {
+	X.misc.showbaidumap = function() {
+		X.get(WEB_ROOT+'/ajax/system.php?id=<?php echo $partner['id']; ?>&action=showbaidumap');
+	};
+	function GShowMap() {
+		var map = new BMap.Map("map_canvas");
+		var point = new BMap.Point(<?php echo $lati; ?>,<?php echo $longi; ?>);
+		var marker = new BMap.Marker(point);
+		map.addOverlay(marker);
+		map.enableScrollWheelZoom();
+		map.centerAndZoom(point,13);
+		}
+	setTimeout(GShowMap,100);
+};
+</script>
+<div class="mapbody map"><div id="map_canvas" style="width:400px;height:230px;"></div>
+</div>
+<?php }?>

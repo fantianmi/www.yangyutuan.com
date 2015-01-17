@@ -1,0 +1,1 @@
+<?php echo $INI['system']['sitename']; ?>项目：<?php echo $coupon['name']; ?>，编号：<?php echo $coupon['id']; ?>，密码：<?php echo $coupon['secret']; ?>，有效期至：<?php echo $coupon['end']; ?>

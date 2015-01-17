@@ -1,0 +1,102 @@
+[ 2015-01-11T00:07:27+08:00 ] 183.62.115.226 /ztapp/api.php
+ERR: 1146:Table 'yangyutuan.test' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `test`
+ERR: 1146:Table 'yangyutuan.test' doesn't exist
+ [ SQL语句 ] : INSERT INTO `test` (`text1`,`text2`) VALUES ('index/index/post','post:[]get:[]')
+
+[ 2015-01-11T00:19:55+08:00 ] 113.200.255.225 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1420906794)
+
+[ 2015-01-11T00:24:25+08:00 ] 113.200.255.225 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '49' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,49,1420907065)
+
+[ 2015-01-11T00:32:41+08:00 ] 113.206.95.130 /ztapp/api.php/Xinsheng/zhifu/order_id/16
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `title` FROM `partner` WHERE ( id= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `title` FROM `team` WHERE ( id= ) LIMIT 1  
+
+[ 2015-01-11T01:00:38+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420909238)
+
+[ 2015-01-11T01:03:53+08:00 ] 113.206.95.130 /ztapp/api.php/Xinsheng/zhifu/order_id/18
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `title` FROM `partner` WHERE ( id= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `title` FROM `team` WHERE ( id= ) LIMIT 1  
+
+[ 2015-01-11T01:09:12+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420909752)
+
+[ 2015-01-11T15:17:02+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420960622)
+
+[ 2015-01-11T18:41:01+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420972861)
+
+[ 2015-01-11T18:56:32+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420973792)
+
+[ 2015-01-11T18:57:37+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420973857)
+
+[ 2015-01-11T19:05:25+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420974325)
+
+[ 2015-01-11T19:05:52+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=7&quantity=1&plat=201
+ERR: 1062:Duplicate entry '51' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,51,1420974352)
+
+[ 2015-01-11T19:09:46+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420974586)
+
+[ 2015-01-11T19:12:27+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420974747)
+
+[ 2015-01-11T19:12:53+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=7&quantity=1&plat=201
+ERR: 1062:Duplicate entry '51' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,51,1420974773)
+
+[ 2015-01-11T19:17:31+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420975050)
+
+[ 2015-01-11T19:19:24+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420975164)
+
+[ 2015-01-11T19:32:06+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420975926)
+
+[ 2015-01-11T19:41:07+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420976466)
+
+[ 2015-01-11T19:52:11+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=7&quantity=1&plat=201
+ERR: 1062:Duplicate entry '51' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,51,1420977131)
+
+[ 2015-01-11T20:07:12+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420978032)
+
+[ 2015-01-11T20:13:06+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420978386)
+
+[ 2015-01-11T20:16:49+08:00 ] 113.206.95.130 /ztapp/api.php?s=Tuan/buy&id=3&quantity=1&plat=201
+ERR: 1062:Duplicate entry '50' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-iOS',2,50,1420978609)
+

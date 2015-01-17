@@ -1,0 +1,20 @@
+[ 2015-01-14T10:32:32+08:00 ] 14.106.120.169 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '75' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,75,1421202752)
+
+[ 2015-01-14T10:34:47+08:00 ] 14.106.120.169 /ztapp/api.php?s=Tuan/buy&id=8&quantity=1&plat=211
+ERR: 1062:Duplicate entry '75' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,75,1421202887)
+
+[ 2015-01-14T11:17:41+08:00 ] 14.106.120.169 /ztapp/api.php/Xinsheng/getTradeOrder/order_id/85
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `title` FROM `team` WHERE ( id= ) LIMIT 1  
+
+[ 2015-01-14T11:31:08+08:00 ] 14.106.120.169 /ztapp/api.php/Xinsheng/getTradeOrder/order_id/85
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `title` FROM `team` WHERE ( id= ) LIMIT 1  
+
+[ 2015-01-14T11:43:58+08:00 ] 14.106.120.169 /ztapp/api.php?s=Tuan/buy&id=4&quantity=1&plat=211
+ERR: 1062:Duplicate entry '87' for key 'UNQ_o'
+ [ SQL语句 ] : INSERT INTO `referer` (`referer`,`user_id`,`order_id`,`create_time`) VALUES ('客户端-android',2,87,1421207038)
+

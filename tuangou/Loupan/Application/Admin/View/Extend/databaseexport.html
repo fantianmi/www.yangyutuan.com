@@ -1,0 +1,124 @@
+<include file="Public:header" />
+<div class="pad-10" >
+    <form name="searchform" action="" method="get" >
+    <table width="100%" cellspacing="0" class="search-form">
+        <tbody>
+            <tr>
+                <td>
+                    <div class="explain-col">
+                    	<input type='button' class="button" id='btn1' value='数据库列表' /> &nbsp;&nbsp;
+                        <input type='button' class='button' id='btn2' value='已备份数据sql文件' />
+                	</div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    </form>
+
+    
+    <form class="btn1" name="myform" action="" method="post" onsubmit="return check();">
+    <table width="100%" cellspacing="0" class="search-form"> 
+        <tr> 
+            <td> 
+                <div class="explain-col">
+                    数据库使用总大小：{$total} 
+                    <input type="submit" class="button" name="dosubmit" value="开始备份数据库"  style="margin:0 10px 0 100px;"/>
+                </div> 
+            </td> 
+        </tr> 
+    </table>    
+    
+    <div class="table-list">
+    <table width="100%" cellspacing="0">
+        <thead>
+            <tr> 
+                <th width=25><input type="checkbox" value="" id="check_box" onclick="selectall('table[]');"></th> 
+                <th>表名</th>
+                <th>类型</th>
+                <th>编码</th> 
+				<th>记录数</th>
+                <th>使用空间</th>
+                <th>碎片</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+    	<tbody>
+        <volist name="tables" id="val" >
+        <tr>        
+            <td align="center">
+           	 <input type="checkbox" value="{$val.Name}" name="table[]">
+			</td>          
+            <td align="center">{$val.Name}</td>
+            <td align="center">{$val.Engine}</td>
+            <td align="center">{$val.Collation}</td>
+            <td align="center">{$val.Rows}</td>
+            <td align="center">{$val.size}</td>
+            <td align="center">{$val.Data_free}</td>
+            <td align="center">
+                <a href="{:U('Extend/optimizeData', array('table'=>$val['Name']))}" class='blue'>优化</a> |
+                <a href="{:U('Extend/repairData', array('table'=>$val['Name']))}" class='blue'>修复</a>
+            </td>
+        </volist>
+    	</tbody>
+    </table>
+
+    <div class="btn22">
+    	<label for="check_box" style="float:left;">{$Think.lang.select_all}/{$Think.lang.cancel}</label> 
+    </div>
+
+    </div>
+    </form>
+
+    
+    <form class="btn2" style='display:none'>
+        <div class="table-list">
+            <table width="100%" cellspacing="0">
+                <thead>
+                    <tr>  
+                        <th>文件名称</th>
+                        <th>文件大小</th>
+                        <th>备份时间</th>  
+                        <th>操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <volist name="sqlinfo" id="val" >
+                <tr>                
+                    <td align="center">{$val.filename}</td>
+                    <td align="center">{$val.filesize}</td>
+                    <td align="center">{$val.maketime}</td> 
+                    <td align="center">
+                        <a href="__ROOT__/Data/Sql/{$val.filename}" class='blue'>下载</a> |
+                        <a href="{:U('Extend/delData', array('sql'=>$val['filename']))}" class='blue' onclick="if(!confirm('确认删除次备份文件吗？')){return false;}">删除</a>
+                    </td>
+                </volist>
+                </tbody>
+            </table> 
+        </div>
+    </form>    
+</div>
+<script language="javascript">  
+function check(){ 
+	var ids='';
+	$("input[name='table[]']:checked").each(function(i, n){
+			ids += $(n).val() + ',';
+	});
+
+	if(ids=='') {
+			window.top.art.dialog({content:'选择要备份的数据表',lock:true,width:'200',height:'50',time:1.5},function(){});
+			return false;
+	} 
+	return true;
+} 
+
+$("#btn1").click(function (){
+    $(".btn1").show();
+    $(".btn2").hide();
+});
+$("#btn2").click(function (){
+    $(".btn1").hide();
+    $(".btn2").show();
+});
+</script>
+</body>
+</html>

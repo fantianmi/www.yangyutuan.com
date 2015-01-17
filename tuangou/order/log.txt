@@ -1,0 +1,679 @@
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>530401872070</data><data>125745</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=81C24773CACD1012F1B47203AD754B6B
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114112858</dateCreated><smsMessageSid>201501141128585154246</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>340777848624</data><data>606749</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=81C24773CACD1012F1B47203AD754B6B
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114112859</dateCreated><smsMessageSid>201501141128595154247</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>326935074983</data><data>696423</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=34E6F42A94A3AD29A9C8CA0807F81758
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114112859</dateCreated><smsMessageSid>201501141128595154249</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>413873556897</data><data>963673</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=34E6F42A94A3AD29A9C8CA0807F81758
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114112900</dateCreated><smsMessageSid>201501141129005154251</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>526593283116</data><data>395057</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=34E6F42A94A3AD29A9C8CA0807F81758
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114112900</dateCreated><smsMessageSid>201501141129005154253</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>290094259389</data><data>450463</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=C1AD91E85F7B019EE407867466609B2E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114112901</dateCreated><smsMessageSid>201501141129015154254</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>529376485467</data><data>913559</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=C1AD91E85F7B019EE407867466609B2E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114112901</dateCreated><smsMessageSid>201501141129015154255</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>269439957099</data><data>854201</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=32CF946CDDAF33F9AD1775A60A418CA9
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114112902</dateCreated><smsMessageSid>201501141129025154259</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>335284683037</data><data>859108</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=32CF946CDDAF33F9AD1775A60A418CA9
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20150114112902</dateCreated><smsMessageSid>201501141129025154263</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>351910669029</data><data>587016</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=FA72537B713D4B1FC9A4271513A3072F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>244317884825</data><data>714614</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=FA72537B713D4B1FC9A4271513A3072F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>537506376177</data><data>228788</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=55B56063DB667B4CD7A1DE9C19B9D1A3
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>256476081833</data><data>797087</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=55B56063DB667B4CD7A1DE9C19B9D1A3
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>526227077543</data><data>998408</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=55B56063DB667B4CD7A1DE9C19B9D1A3
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>371759293059</data><data>809518</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=CBF6E4344A2782B931C1870B7E392DB5
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>318072774129</data><data>887194</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=CBF6E4344A2782B931C1870B7E392DB5
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>290167498503</data><data>929915</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=CBF6E4344A2782B931C1870B7E392DB5
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>513043484933</data><data>803748</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=80673009B168F8C401483AF3C68DD69D
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>311700709167</data><data>377350</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=80673009B168F8C401483AF3C68DD69D
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>511139189956</data><data>939349</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=80673009B168F8C401483AF3C68DD69D
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>436358905049</data><data>654662</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=161D1404800B834D4A3A96A6C921CD51
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>312359881198</data><data>292907</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=161D1404800B834D4A3A96A6C921CD51
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>364142105150</data><data>240931</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=161D1404800B834D4A3A96A6C921CD51
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>516705595658</data><data>474532</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=0366198B7E3C497BCBC980AF1CD57AC2
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>395050319470</data><data>753268</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=0366198B7E3C497BCBC980AF1CD57AC2
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>524176295337</data><data>775015</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=0366198B7E3C497BCBC980AF1CD57AC2
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>529083529009</data><data>496551</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=77C91D4B27019A2D901F4211E073C143
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>334771999235</data><data>394555</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=77C91D4B27019A2D901F4211E073C143
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>466241723766</data><data>256792</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=DF577CEBD427472DFBC090F5B489635F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>248492698352</data><data>841951</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=DF577CEBD427472DFBC090F5B489635F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>506524922742</data><data>935900</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=DF577CEBD427472DFBC090F5B489635F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>265338392687</data><data>407415</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=DF577CEBD427472DFBC090F5B489635F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>349933952137</data><data>933175</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=9C714E80A1435A18D23392BBC0A0EF27
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>385309101241</data><data>291737</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=9C714E80A1435A18D23392BBC0A0EF27
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>296466324351</data><data>969298</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=B4C59F28475D37EE06D2AD55D8FD3B74
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>308404804014</data><data>104115</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=B4C59F28475D37EE06D2AD55D8FD3B74
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>346124526983</data><data>103377</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=B4C59F28475D37EE06D2AD55D8FD3B74
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>334625502006</data><data>935451</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=B4C59F28475D37EE06D2AD55D8FD3B74
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>498907734834</data><data>376324</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=3402EC789866F28F6A059670E088DAD0
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>463971214217</data><data>994754</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=3402EC789866F28F6A059670E088DAD0
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>454815936904</data><data>667428</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=3402EC789866F28F6A059670E088DAD0
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>396441911646</data><data>162014</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=6EFF5B88388F9DA368F15DC8A874CB7D
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>513849144192</data><data>177489</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=6EFF5B88388F9DA368F15DC8A874CB7D
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>432037613294</data><data>369221</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=73402BAD0E413088CCD63036E2B7D0BF
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>376007345700</data><data>505407</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=73402BAD0E413088CCD63036E2B7D0BF
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>270758319160</data><data>684505</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=F623002D966E9555DA9CE3343792FC6F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>341290542426</data><data>262393</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=F623002D966E9555DA9CE3343792FC6F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>512604021246</data><data>927647</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=F623002D966E9555DA9CE3343792FC6F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>409698753371</data><data>847235</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=97C97FF03ADD6638CE1043664B9D9949
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>257574726550</data><data>589835</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=97C97FF03ADD6638CE1043664B9D9949
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>281231948534</data><data>640135</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=97C97FF03ADD6638CE1043664B9D9949
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>405670437073</data><data>179991</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=09910D5A237F4BCFDE524A4356AF8A69
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>255890158917</data><data>562992</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=09910D5A237F4BCFDE524A4356AF8A69
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>356891132815</data><data>787004</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=407FCDA10FF89C36FBD0A4D2F6CB4BC8
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>333673354518</data><data>502706</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=407FCDA10FF89C36FBD0A4D2F6CB4BC8
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>411236832775</data><data>504075</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=407FCDA10FF89C36FBD0A4D2F6CB4BC8
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>514581564337</data><data>561588</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=66213AA306527846FA40607A07F453FC
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>268707536954</data><data>460012</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=66213AA306527846FA40607A07F453FC
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>498614768376</data><data>758326</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=66213AA306527846FA40607A07F453FC
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>529303246352</data><data>334007</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=6B40796F4533C48898E8611636F05455
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>285772967633</data><data>964022</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=6B40796F4533C48898E8611636F05455
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>293023949969</data><data>426059</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=6B40796F4533C48898E8611636F05455
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>476056172109</data><data>398775</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=DF61B18945E8138C2CA202381D31DB85
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>459869658804</data><data>547968</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=DF61B18945E8138C2CA202381D31DB85
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>469464379804</data><data>741495</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=DF61B18945E8138C2CA202381D31DB85
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>429840352859</data><data>786834</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=EB3D51492A475FA403548BFB26E8362E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>265997573718</data><data>321062</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=EB3D51492A475FA403548BFB26E8362E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>502936051132</data><data>144768</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=BB353915A318C54BDCF015E976C8CCBA
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>465655781850</data><data>911607</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=BB353915A318C54BDCF015E976C8CCBA
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>379156753623</data><data>520558</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=BB353915A318C54BDCF015E976C8CCBA
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>468438984201</data><data>639199</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=CAF1D5412F4EA32D76D97949FFD66E27
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>358502451334</data><data>125306</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=CAF1D5412F4EA32D76D97949FFD66E27
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>274347181771</data><data>575748</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=CAF1D5412F4EA32D76D97949FFD66E27
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>440973163263</data><data>658101</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=AF5F3D7864AB48167489EEF8DF14F925
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>483380393560</data><data>430254</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=AF5F3D7864AB48167489EEF8DF14F925
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>326568869411</data><data>409873</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=AF5F3D7864AB48167489EEF8DF14F925
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>495538599567</data><data>423737</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=81DD69EE0B2F3B3C758C9CB731864F2B
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>315289561778</data><data>279503</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=81DD69EE0B2F3B3C758C9CB731864F2B
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>310821791793</data><data>524167</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=81DD69EE0B2F3B3C758C9CB731864F2B
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>407135277363</data><data>167289</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=475E6B63F8819CEFE9C95F2B9CB68DFF
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>529230007238</data><data>654555</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=475E6B63F8819CEFE9C95F2B9CB68DFF
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>302105978167</data><data>174833</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=475E6B63F8819CEFE9C95F2B9CB68DFF
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【万象城】隔锅香</data><data>249875304013</data><data>900131</data><data>2015-3-4</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=495C39B2BC85EEA8E5B3D7DFC881FBC6
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>撒大苏打撒旦撒旦撒</data><data>451850712266</data><data>791556</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=0F234DC90D46EF161F9FCE2987022776
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>
+request body = <TemplateSMS>
+			                    <to>18688164055</to> 
+			                    <appId>aaf98f894acd9fb8014add63ce290798</appId>
+			                    <templateId>11366</templateId>
+			                    <datas><data>【包邮】千奈美女人心厚薄可选性感聚拢调整型文胸</data><data>343772762805</data><data>112210</data><data>2015-3-6</data></datas>
+			                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894acd9fb8014add60f2f50790/SMS/TemplateSMS?sig=8BB08B2F441B519A6B35F73F49F3CB56
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112314</statusCode><statusMsg>【短信】短信下发超过当日发送限制</statusMsg></Response>

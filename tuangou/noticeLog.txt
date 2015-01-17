@@ -1,0 +1,14 @@
+orderID：go-31-1-vhwf
+resultCode：
+stateCode：2
+orderAmount：10
+payAmount：10
+acquiringTime：20150109164600
+completeTime：20150109164704
+orderNo：1051501091647078194
+partnerID：10054663686
+remark：扩展字段
+charset：1
+signType：2
+signMsg：702e26c9100ce941bb1fe7b56927adbc
+验签结果：验签成功。

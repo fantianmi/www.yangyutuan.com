@@ -1,0 +1,3 @@
+resultCode : UNAUTHENTICATED
+orderNo : 0831222316576135bkltech
+resultMessage : 认证(签名)错误[待签名字符串[buy=更多方式支付&goodsClauses=[{'name':'测啊大王打算','price':'1.00','quantity':'1'}]&httpPost=httpPost&notifyUrl=http://www.yangyutuan.cn/noticeUrl2.php&orderNo=0831222316576135bkltech&outOrderNo=go-47-1-jimk&partnerId=20140411020055684571&returnUrl=http://www.yangyutuan.cn/returnUrl2.php&sellerUserId=20140411020055684571&service=commonTradePay&signType=MD5&tradeAmount=1.00&tradeName=测啊大王打算]]
